@@ -1,0 +1,10 @@
+Isabel_A.V Coder 2006 
+Vittorio_B.C Tecnician 2006 
+Vacyliev_V.U Cleaner 2011 
+Ivanov_D.I Manager 2007 
+Kuznetsov_K.G Programmer 2019
+Fedorov_S.Y Manager 2016
+Orlov_V.F Engineer 2011
+Kuznetsov_G.G Programmer 2019
+Popov_A.N Analyst 2014
+Lebedev_F.Z Manager 2008
